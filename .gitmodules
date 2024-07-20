@@ -1,0 +1,8 @@
+[submodule "tizori-backend"]
+	path = tizori-backend
+	url = git@github.com:Dhruv9449/tizori-backend.git
+	branch = dev
+[submodule "tizori-cli"]
+	path = tizori-cli
+	url = git@github.com:Dhruv9449/tizori-cli.git
+	branch = dev

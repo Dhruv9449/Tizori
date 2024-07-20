@@ -2,22 +2,27 @@
 <a href="https://github.com/Dhruv9449">
 	<img src="https://github.com/user-attachments/assets/436d2707-e79e-41d8-b1d0-fa2d2948307e" alt="Dhruv Shah" height=200/>
 </a>
-	<h2 align="center"> Tizori </h2>
-	<h4 align="center"> A self-hosted credentials manager with role based access control(RBAC) and a CLI interface for clients. </h4>
+	<h2 align="center"> Tizori 🔐</h2>
+	<h4 align="center"> A self-hosted credentials manager with role-based access control (RBAC) and a CLI interface for clients. </h4>
 </p>
-
----
 
 <br>
 
 ## Key Features
-- [x] **Role Based Access Control (RBAC)**
-- [x] **CLI Interface for Clients**
-- [x] **Self-Hosted**
-- [x] **AES-256 Encryption of Credentials**
-- [x] **JWT Authentication**
-- [x] **Multi-User Support**
-- [x] **Admin Panel for User Management**
+- [x] **🔒 Role Based Access Control (RBAC)**
+- [x] **💻 CLI Interface for Clients**
+- [x] **🏠 Self-Hosted**
+- [x] **🔐 AES-256 Encryption of Credentials**
+- [x] **🔑 JWT Authentication**
+- [x] **👥 Multi-User Support**
+- [x] **🛠️ Admin Panel for User Management**
+
+<br>
+<br>
+
+## Repositories
+[📂 Backend Repository](https://github.com/Dhruv9449/tizori-backend)  
+[📁 CLI Repository](https://github.com/Dhruv9449/tizori-cli)
 
 <br>
 <br>
@@ -44,5 +49,5 @@
 </table>
 
 <p align="center">
-	Made with :heart: by <a href="https://github.com/Dhruv9449">Dhruv Shah</a>
+	Made with ❤️ by <a href="https://github.com/Dhruv9449">Dhruv Shah</a>
 </p>

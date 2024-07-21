@@ -43,6 +43,10 @@
 				<a href = "https://www.linkedin.com/in/Dhruv9449" target="_blank">
 					<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
 				</a>
+				<a href = "mailto:dhruvshahrds@gmail.com" target="_blank">
+					<img src = "https://www.iconninja.com/files/312/807/734/share-send-email-chat-circle-message-mail-icon.svg" width="36" height="36" 
+					alt="Email"/>
+				</a>
 			</p>
 		</td>
 	</tr>

@@ -21,7 +21,7 @@
 <br>
 
 ## Repositories and Documentation
-[📂 Backend Repository and Documentation](https://github.com/Dhruv9449/tizori-backend)
+[📂 Backend Repository and Documentation](https://github.com/Dhruv9449/tizori-backend)  
 [📁 CLI Repository and Documentation](https://github.com/Dhruv9449/tizori-cli)
 
 <br>

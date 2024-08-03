@@ -20,9 +20,9 @@
 <br>
 <br>
 
-## Repositories
-[📂 Backend Repository](https://github.com/Dhruv9449/tizori-backend)  
-[📁 CLI Repository](https://github.com/Dhruv9449/tizori-cli)
+## Repositories and Documentation
+[📂 Backend Repository and Documentation](https://github.com/Dhruv9449/tizori-backend)
+[📁 CLI Repository and Documentation](https://github.com/Dhruv9449/tizori-cli)
 
 <br>
 <br>
